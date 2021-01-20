@@ -19,45 +19,8 @@ Applied to rest of the column
 
 •	Created a pivot table for theatre outcomes based on launch dates(month)
 
-Parent Category	theater	
-
-years	(All)	
-
-
-					
-Count of outcomes	Column Labels	
-
-Row Labels	successful	failed	canceled	Grand Total
-
-Jan	56	33	7	96
-
-Feb	71	39	3	113
-
-Mar	56	33	3	92
-
-Apr	71	40	2	113
-
-May	111	52	3	166
-
-Jun	100	49	4	153
-
-Jul	87	50	1	138
-
-Aug	72	47	4	123
-
-Sep	59	34	4	97
-
-Oct	65	50		115
-
-Nov	54	31	3	88
-
-Dec	37	35	3	75
-
-Grand Total	839	493	37	1369	
-					
-
-
-
+![pivot](https://user-images.githubusercontent.com/67460581/105127382-08913a00-5a9e-11eb-968b-769c3f16c7c7.PNG)
+		
 
 
 •	A line chart based on outcomes
