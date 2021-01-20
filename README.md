@@ -41,6 +41,8 @@ Grand Total	839	493	37	1369
 
 
 •	A line chart based on outcomes
+
+![Theater_outcomes_vs_Launch](https://user-images.githubusercontent.com/67460581/105126267-9586c400-5a9b-11eb-86e6-27728e138ec4.png)
  
 
 The difficulties were to extract months from the launch date data to determine the successful, failed and canceled outcomes.
@@ -56,7 +58,9 @@ Outcomes Based on Goals
 
  
 •	A line chart Outcome based on Goals
- 
+
+![outcomes_vs_goals](https://user-images.githubusercontent.com/67460581/105126259-93246a00-5a9b-11eb-8641-6e38ed46786e.png)
+
 
 •	The difficulties were to calculate the successful, failed and canceled numbers based on goals with Formula: = COUNTIFS (). The goal criteria needed to be adjusted with every column. 
 •	Also Canceled Percentage calculation had error because 0 cannot be dividend.
